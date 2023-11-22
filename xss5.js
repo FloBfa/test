@@ -4,4 +4,4 @@ let x = document.cookie;
 let getting = browser.cookies.get(
   details                // object
 )
-alert(browser.cookies.get(details))
+alert("blooooo")
